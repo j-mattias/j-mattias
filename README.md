@@ -1,4 +1,8 @@
 Some of the projects I've worked on:
+- Pokemon Guesser.
+  - [Website](https://pokemon-guesser-xi.vercel.app/) (responsive)
+  - [Repo](https://github.com/j-mattias/pokemon-guesser)
+  - Next.js, React, TypeScript, HTML/CSS
 - Product portal, a basic webshop. 
   - [Website](https://j-mattias.github.io/product-portal/) (responsive)
   - [Repo](https://github.com/j-mattias/product-portal)
